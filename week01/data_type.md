@@ -94,4 +94,4 @@ sess.close()
 
 참고문헌:
 --------
-  1. bcho.tistory.com/1150 (본 블로그의 내용을 따라하며 공부겸 요약)
+  1. <https://bcho.tistory.com/1150> (본 블로그의 내용을 따라하며 공부겸 요약)
