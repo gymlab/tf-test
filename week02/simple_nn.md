@@ -14,6 +14,9 @@ Y * tf.log(model) -> reduce_sum(axis=1) # column vector 생성
 [[-1. 0     0]       [-1. -0.09]
  [0   -0.09 0]]
 ```
+Axis의 예시
+
+![axis](assets/simple_nn-a10a9.png)
 ```
 reduce_sum -> reduce_mean
 [-1. -0.09]   -0.545
